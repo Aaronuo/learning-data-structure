@@ -1,4 +1,0 @@
-Status InitList(&L)
-{
-    L.elem=(ElemType *)malloc()
-}
